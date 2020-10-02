@@ -1,6 +1,10 @@
 hello world
+2020_10_01
+一回目の修正だよーん
 hello world
 hello world
 hello world
 hello world
 hello world
+2020_10_02
+二回目の修正だよーん
